@@ -9,7 +9,7 @@
 
 I am passionate about solving real-world problems using **Generative AI, Machine Learning, and cyber security**. With experience in **Internships and digital marketing**
 
-I enjoy working with **Python, NLP systems, and machine learning workflows**, and I continuously improve my skills by building projects, experimenting with models, and learning modern tools.
+I enjoy working with **machine learning workflows**, and I continuously improve my skills by building projects, experimenting with models, and learning modern tools.
 
 ---
 
