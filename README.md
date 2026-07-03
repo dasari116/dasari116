@@ -1,6 +1,6 @@
 # Hi, I’m Dasari  
 
-🚀 **Aspiring  AI&ML and Cyber Security Enthusiast**
+🚀 **Aspiring  AI&ML, AI engineer, Devops, and Cyber Security Enthusiast**
 🎓 **B.Tech CSE**
 
 ---
