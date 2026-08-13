@@ -18,6 +18,7 @@ I enjoy working with **machine learning workflows**, and I continuously improve 
 ### 🔹 Programming
 
 * Python
+* ruby
 * SQL 
 
 ### 🔹 Machine Learning
