@@ -35,7 +35,13 @@ I enjoy working with **machine learning workflows**, and I continuously improve 
 * genspark.ai
 * streamlit
 * webwhiteboard
+* Docker
 
+### 🔹 OS
+
+* Linux
+* Windows
+   
 ### 🔹 Platforms
 
 * Git & GitHub
